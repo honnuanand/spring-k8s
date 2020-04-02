@@ -8,7 +8,6 @@
 		<version>2.1.8.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	
 	<groupId>io.clue2solve</groupId>
 	<artifactId>spring-k8s</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
