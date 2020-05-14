@@ -1,1 +1,1 @@
-# spring-k8s
+# spring-k8s - a simple hello world App
