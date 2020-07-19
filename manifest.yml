@@ -1,0 +1,6 @@
+---
+applications:
+  - name: spring-k8s
+    memory: 1024M
+    instances: 1
+    path: ./target/spring-k8s-0.0.1-SNAPSHOT.jar
