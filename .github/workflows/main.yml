@@ -28,4 +28,4 @@ jobs:
         ./cf api api.sys.tas.aws.clue2solve.com
         ./cf auth $CF_USERNAME $CF_PASSWORD
         ./cf target -o test -s test
-        ./cf push -f manifest.yaml
+        ./cf push -f manifest.yml
